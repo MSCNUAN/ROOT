@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="prefer_video_tab" value="true" />
+    <boolean name="show_hint" value="false" />
+    <boolean name="block_pcdn" value="false" />
+    <boolean name="teenagers_mode_dialog" value="true" />
+    <boolean name="remove_vip_section" value="true" />
+    <set name="customize_home_tab">
+        <string>korea</string>
+        <string>activity</string>
+        <string>movie</string>
+        <string>other_tabs</string>
+    </set>
+    <boolean name="drawer_style" value="true" />
+    <boolean name="filter_apply_to_video" value="false" />
+    <boolean name="force_th_comment" value="false" />
+    <boolean name="main_func" value="true" />
+    <boolean name="add_korea" value="false" />
+    <boolean name="disable_main_page_story" value="false" />
+    <boolean name="revert_live_room_feed" value="false" />
+    <boolean name="customize_dynamic_rm_blocked" value="true" />
+    <boolean name="search_area_bangumi" value="true" />
+    <set name="hided_bottom_items">
+        <string>883</string>
+        <string>202</string>
+    </set>
+    <string name="hk_server">伊蕾娜.我爱你</string>
+    <boolean name="play_arc_conf" value="true" />
+    <boolean name="disable_live_room_double_click" value="false" />
+    <boolean name="enable_av" value="true" />
+    <boolean name="block_comment_guide" value="true" />
+    <string name="half_screen_quality">116</string>
+    <boolean name="allow_download" value="true" />
+    <boolean name="comment_copy" value="false" />
+    <boolean name="add_movie" value="true" />
+    <boolean name="custom_download_thread" value="true" />
+    <boolean name="purify_drawer_reddot" value="true" />
+    <boolean name="show_info" value="false" />
+    <set name="customize_dynamic_keyword_uid" />
+    <boolean name="save_comment_image" value="true" />
+    <set name="hided_drawer_items">
+        <string>191</string>
+        <string>1040</string>
+        <string>385</string>
+        <string>386</string>
+        <string>387</string>
+        <string>1039</string>
+        <string>1038</string>
+        <string>424</string>
+        <string>963</string>
+        <string>1035</string>
+        <string>811</string>
+        <string>923</string>
+        <string>705</string>
+    </set>
+    <boolean name="add_custom_button" value="false" />
+    <boolean name="allow_mini_play" value="true" />
+    <string name="cn_server">伊蕾娜.我爱你</string>
+    <boolean name="purify_share" value="true" />
+    <boolean name="hidden" value="true" />
+    <boolean name="replace_story_video" value="true" />
+    <boolean name="home_filter_prefs_migrated" value="true" />
+    <boolean name="block_upper_recommend_ad" value="false" />
+    <boolean name="block_bangumi_page_ads" value="true" />
+    <boolean name="purify_city" value="true" />
+    <string name="full_screen_quality">116</string>
+    <boolean name="disable_auto_refresh" value="false" />
+    <boolean name="disable_story_full" value="true" />
+    <set name="customize_space">
+        <string>adV2</string>
+        <string>cheeseVideo</string>
+        <string>ugcSeasonList</string>
+        <string>contractResource</string>
+        <string>nftShowModule</string>
+        <string>tab.cheese</string>
+    </set>
+    <boolean name="disable_try_watch_vip_quality" value="true" />
+    <boolean name="purify_campus" value="true" />
+    <boolean name="block_up_rcmd_ads" value="true" />
+    <boolean name="force_browser" value="true" />
+    <boolean name="search_area_movie" value="true" />
+    <boolean name="customize_dynamic_all_rm_up" value="false" />
+    <boolean name="forbid_switch_live_room" value="true" />
+    <string name="tw_server">伊蕾娜.我爱你</string>
+    <boolean name="purify_splash" value="true" />
+    <boolean name="block_word_search" value="true" />
+    <boolean name="block_update" value="true" />
+    <boolean name="auto_generate_subtitle" value="true" />
+    <boolean name="dialog_blur_background" value="false" />
+    <boolean name="music_notification" value="true" />
+    <set name="customize_dynamic_keyword_content" />
+    <boolean name="drawer" value="false" />
+    <boolean name="remove_video_cmd_dms" value="false" />
+    <boolean name="fix_space" value="true" />
+    <string name="upos_host">$1</string>
+    <boolean name="remove_video_relate_promote" value="true" />
+    <boolean name="fix_download" value="true" />
+    <boolean name="add_bangumi" value="true" />
+    <boolean name="customize_dynamic_video_rm_up" value="false" />
+    <set name="customize_dynamic_keyword_upname" />
+    <boolean name="purify_game" value="true" />
+    <set name="purify_live_popups">
+        <string>gift</string>
+        <string>gotoBuy</string>
+        <string>task</string>
+        <string>shoppingSelected</string>
+        <string>shoppingCard</string>
+        <string>reserve</string>
+        <string>banner</string>
+        <string>follow</string>
+    </set>
+    <set name="customize_home_recommend">
+        <string>game</string>
+        <string>advertisement</string>
+        <string>large_cover</string>
+        <string>banner</string>
+    </set>
+    <boolean name="dynamic_content_regex_mode" value="false" />
+    <boolean name="drawer_style_switch" value="true" />
+    <boolean name="block_pcdn_live" value="false" />
+    <boolean name="customize_dynamic_all_rm_topic" value="true" />
+    <set name="customize_dynamic_type">
+        <string>24</string>
+        <string>14</string>
+        <string>4</string>
+        <string>15</string>
+        <string>18</string>
+    </set>
+</map>
